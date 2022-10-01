@@ -1,6 +1,13 @@
 <h1 align="center">Hello Gits👋, I'm Rushikesh Bhalerao</h1>
 <h3 align="center">Student of Computer Engineering At MET Institute of Engineering<br>New to this Cyber World !!!<br>> Technical Support Committee'22 <</h3>
-  
+
+<a href="https://holopin.io/@rushirao17" target="_blank" rel="noreferrer">
+<img src="https://holopin.io/api/user/board?user=rushirao17" width="100%px" height="50%"> 
+ 
+ 
+ 
+ 
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushirao17&label=Profile%20views&color=0e75b6&style=flat" alt="rushirao17" /> </p>
 
 <h3 align="left">Connect with me:</h3>
