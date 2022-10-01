@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rushikesh-bhalerao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-bhalerao" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rushikesh-bhalerao-4a6504228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-bhalerao" height="30" width="40" /></a>
 <a href="https://instagram.com/justt._rush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justt._rush" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rushirao17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rushirao17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rushikesh_p_bha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rushikesh_p_bha1" height="30" width="40" /></a>
