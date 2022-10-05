@@ -60,5 +60,7 @@
 <img src="https://static-fastly.hackerearth.com/static/badges/practice_track/algorithms_1.png" alt="Hackerearth" width="40" height="50"/> </a>
 
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushirao17&show_icons=true&locale=en&layout=compact" alt="rushirao17" />&nbsp&nbsp&nbsp&nbsp
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushirao17&" alt="rushirao17" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushirao17&show_icons=true&locale=en&layout=compact" alt="rushirao17"/>
+&nbsp&nbsp&nbsp&nbsp
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushirao17&" alt="rushirao17" /></p>
