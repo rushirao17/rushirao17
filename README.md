@@ -50,9 +50,6 @@
 <a href="https://holopin.io/@rushirao17" target="_blank" rel="noreferrer">
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="bootstrap" width="50" height="50"/> </a>
  
- <h3 align="left">Hackerrank Badges:</h3>
-<a href="https://www.hackerearth.com/@rushikesh931" target="_blank" rel="noreferrer">
-<img src="https://media-exp1.licdn.com/dms/image/sync/C5627AQFfV5Hfl18oMg/articleshare-shrink_1280_800/0/1664716936548?e=1665324000&v=beta&t=-cuAkCRxrlWlmentW-6KMOCYq00Q4qGMIBz0aP2eR1g" alt="Hackerearth" width="100" height="50"/> </a>
  
 <h3 align="left">HackerEarth Badges:</h3>
 <a href="https://www.hackerearth.com/@rushikesh931" target="_blank" rel="noreferrer">
