@@ -70,8 +70,7 @@
  
  
  ## 🏆 My Trophies <br > 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=rushirao17&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  <br ><br >
+  [![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=rushirao17&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
  
 <h3 align="left">HackerEarth Badges:</h3>
 <a href="https://www.hackerearth.com/@rushikesh931" target="_blank" rel="noreferrer">
