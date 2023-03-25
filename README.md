@@ -1,14 +1,18 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-<h1 align="center">Hello Gits👋, I'm Rushikesh Bhalerao</h1>
-<h3 align="center">Student of Computer Engineering At MET Institute of Engineering<br>New to this Cyber World !!!<br>> Technical Core Committee'22 <</h3>
-
-<a href="https://holopin.io/@rushirao17" target="_blank" rel="noreferrer">
-<img src="https://holopin.io/api/user/board?user=rushirao17" width="100%px" height="50%"> 
+<h3 align="center">
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushirao17&label=Profile%20views&color=0e75b6&style=flat" alt="rushirao17" /> </p>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+ 
+<p  align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey+Gits!+It's+Rushikesh+Bhalerao+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Computer+Science+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Nashik,+India;Member+of+Technical+Core+Committee+%F0%9F%93%88;Intern+at+wolfizer+Technologies+LLP+%E2%9A%99%EF%B8%8F" alt="Rushikesh Bhalerao" width="650" height="55">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ 
+<a href="https://holopin.io/@rushirao17" target="_blank" rel="noreferrer">
+<img src="https://holopin.io/api/user/board?user=rushirao17" width="100%" height="50%"> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+ 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/rushikesh-bhalerao-4a6504228/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-bhalerao" height="30" width="40" /></a>
 
@@ -21,63 +25,74 @@
 <a href="https://www.hackerrank.com/rushikesh_p_bha1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rushikesh_p_bha1" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ 
+ </p>
+ <div align="center">
+<p>
+  
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+ 
+ </p>
+ </div>
+
 
  
-  
-<h3 align="left">HackoctoberFest Badges:</h3>
-<a href="https://holopin.io/@rushirao17" target="_blank" rel="noreferrer">
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="bootstrap" width="50" height="50"/> </a>
-
-<a href="https://holopin.io/@rushirao17" target="_blank" rel="noreferrer">
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="bootstrap" width="50" height="50"/> </a>
+ ---
  
 ## 📊 GitHub Stats
-
+ 
+ <p align="left" margin="5cm"> <img src="https://komarev.com/ghpvc/?username=rushirao17&label=Profile%20views&color=0e75b6&style=flat" alt="rushirao17" /> </p>
+<div align="center">
 <table>
   <tr>
     <td>
-      <a href="https://github.com/rushirao17/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=rushirao17&hide_border=true&show_icons=true&count_private=true" alt="Rushikesh's GitHub Stats" /> </a>
+      <a href="https://github.com/rushirao17/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=rushirao17&show_icons=true&theme=github_dark&hide_border=true" /> </a>
     </td>
     <td>
-      <a href="https://github.com/rushirao17/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=rushirao17&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
-    </td>
+      <a href="https://github.com/rushirao17/github-readme-stats"> 
+       
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushirao17&layout=compact&show_icons=true&bg_color=00000000&hide_border=true)
+     </a>
+   </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=rushirao17&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Rushikesh's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rushirao17&theme=github-dark-blue&hide_border=true" /></a>
     </td>
   </tr>
 </table>
  
+ </div>
  
- ## 🏆 My Trophies <br > 
-  [![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=rushirao17&no-frame=true&no-bg=true&theme=juicyfresh&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+ <div align="center">
+  
+  ## 🏆 My Trophies <br > 
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=rushirao17&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&text_color=D3D3D3&bg_color=0,000000,130F40)
+  <br ><br >
  
-<h3 align="left">HackerEarth Badges:</h3>
-<a href="https://www.hackerearth.com/@rushikesh931" target="_blank" rel="noreferrer">
-<img src="https://static-fastly.hackerearth.com/static/badges/language/cpp_1.png" alt="Hackerearth" width="40" height="50"/> </a>
-<a href="https://www.hackerearth.com/@rushikesh931" target="_blank" rel="noreferrer">
-<img src="https://static-fastly.hackerearth.com/static/badges/practice_track/basic_programming_2.png" alt="Hackerearth" width="40" height="50"/> </a>
-<a href="https://www.hackerearth.com/@rushikesh931" target="_blank" rel="noreferrer">
-<img src="https://static-fastly.hackerearth.com/static/badges/practice_track/algorithms_1.png" alt="Hackerearth" width="40" height="50"/> </a>
+ </div>
+ 
+ 
+<h3 align="center">
+ 
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
+ </h3>
