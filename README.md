@@ -50,12 +50,23 @@
 <a href="https://holopin.io/@rushirao17" target="_blank" rel="noreferrer">
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="bootstrap" width="50" height="50"/> </a>
  
-## 💻 GitHub Stats
-<p align="center">
-  <a href="#"><img alt="Rushikesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rushirao17&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
-  <a href="#"><img alt="Rushikesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirao17&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
-<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
-</p>
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/rushirao17/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=rushirao17&hide_border=true&show_icons=true&count_private=true" alt="Rushikesh's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/rushirao17/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=rushirao17&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=rushirao17&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Rushikesh's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
  
  
  ## 🏆 My Trophies <br > 
