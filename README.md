@@ -1,3 +1,4 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <h1 align="center">Hello Gits👋, I'm Rushikesh Bhalerao</h1>
 <h3 align="center">Student of Computer Engineering At MET Institute of Engineering<br>New to this Cyber World !!!<br>> Technical Core Committee'22 <</h3>
 
