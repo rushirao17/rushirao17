@@ -68,7 +68,7 @@
     <td>
       <a href="https://github.com/rushirao17/github-readme-stats"> 
        
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushirao17&layout=compact&show_icons=true&bg_color=00000000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushirao17&layout=compact&show_icons=true&bg_color=0d1117&hide_border=true)
      </a>
    </td>
   </tr>
