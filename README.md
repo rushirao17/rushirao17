@@ -9,6 +9,7 @@
 <a href="https://holopin.io/@rushirao17" target="_blank" rel="noreferrer">
 <img src="https://holopin.io/api/user/board?user=rushirao17" width="100%" height="50%"> 
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
  
 <h3 align="center">Connect with me:</h3>
