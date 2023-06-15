@@ -58,11 +58,11 @@
 <h3 align="center">IBM Badges:</h3>
 <p align="center">
 <a href="#" target="blank">
-<img align="center" src="https://images.credly.com/images/49211314-919e-4207-885a-7d2ff76ddb07/Statistics_101_-_CC.png" height="50" width="50" />
-<img align="center" src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="50" width="50" />
-<img align="center" src="https://images.credly.com/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" height="50" width="50"/>
-<img align="center" src="https://images.credly.com/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png" height="50" width="50" /></a><br>
-<img align="center" src="sql.png" height="65" width="130" /></a>
+<img align="center" src="https://images.credly.com/images/49211314-919e-4207-885a-7d2ff76ddb07/Statistics_101_-_CC.png" height="70" width="70" />
+<img align="center" src="https://images.credly.com/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" height="70" width="70" />
+<img align="center" src="https://images.credly.com/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" height="70" width="70"/>
+<img align="center" src="https://images.credly.com/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png" height="70" width="70" /></a><br>
+<img align="center" src="sql.png" height="75" width="150" /></a>
 </p>
 
  
