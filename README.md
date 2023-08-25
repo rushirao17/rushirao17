@@ -3,7 +3,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
  
 <p  align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey+Gits!+It's+Rushikesh+Bhalerao+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Computer+Science+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Nashik,+India;Member+of+Technical+Core+Committee+%F0%9F%93%88;X-Intern+at+wolfizer+Technologies+LLP+%E2%9A%99%EF%B8%8F" alt="Rushikesh Bhalerao" width="650" height="55">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey+Gits!+It's+Rushikesh+Bhalerao+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Computer+Science+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Nashik,+India;AI/ML+lead+at+Google+Dev.+Students+Club+%F0%9F%93%88;X-Intern+at+wolfizer+Technologies+LLP+%E2%9A%99%EF%B8%8F" alt="Rushikesh Bhalerao" width="650" height="55">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
 <a href="https://holopin.io/@rushirao17" target="_blank" rel="noreferrer">
