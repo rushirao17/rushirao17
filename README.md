@@ -1,6 +1,8 @@
 <h3 align="center">
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </h3>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=61dafb&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hello,+I'm+Rushikesh+Bhalerao!+%F0%9F%91%8B;Data+Engineer+%26+Data+Analyst+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Passionate+about+Insights+%26+Analytics+%F0%9F%A7%AF" alt="Rushikesh Bhalerao">
@@ -79,9 +81,9 @@
 
 <h3 align="center">🏆 Trophies:</h3>
 <div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=rushirao17&theme=juicyfresh&no-frame=true&row=1&&margin-w=20)
+  <img src="https://github-profile-trophy.vercel.app/?username=rushirao17&theme=juicyfresh&no-frame=true&row=1&&margin-w=20"/>
 </div>
 
 <h3 align="center">
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </h3>
