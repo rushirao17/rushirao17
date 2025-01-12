@@ -1,12 +1,7 @@
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
-</h3>
-
-<p align="center">
-  <h3 align="center">
   <img align="center" src="https://raw.githubusercontent.com/rushirao17/rushirao17/main/Intro.png" alt="github" height="180" width="600" style="filter: brightness(0) invert(1);" />
-  </h3>
-</p>
+</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="center">
