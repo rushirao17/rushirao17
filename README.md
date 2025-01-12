@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 </h3>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=61dafb&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hello,+I'm+Rushikesh+Bhalerao!+%F0%9F%91%8B;Data+Engineer+%26+Data+Analyst+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Passionate+about+Insights+%26+Analytics+%F0%9F%A7%AF" alt="Rushikesh Bhalerao">
 </p>
@@ -14,14 +12,17 @@
     <img src="https://holopin.io/api/user/board?user=rushirao17" width="100%" height="50%">
   </a>
 </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikesh-bhalerao-4a6504228/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rushirao17/rushirao17/main/Linkedin.png" alt="linkedin" height="40" width="40" style="filter: brightness(0) invert(1);" />
   </a>
+  &nbsp
   <a href="https://github.com/rushirao17" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rushirao17/rushirao17/main/Github.png" alt="github" height="40" width="40" style="filter: brightness(0) invert(1);" />
   </a>
 </p>
 
@@ -45,8 +46,6 @@
   <img src="https://img.shields.io/badge/Airflow-%2361dafb.svg?style=for-the-badge&logo=apacheairflow&logoColor=black" />
   <img src="https://img.shields.io/badge/Cassandra-%2361dafb.svg?style=for-the-badge&logo=apachecassandra&logoColor=black" />
 </p>
-
-
 </div>
 
 <h3 align="center">🏅 IBM & Other Badges:</h3>
@@ -57,7 +56,6 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats:</h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rushirao17&label=Profile%20views&color=61dafb&style=flat" alt="rushirao17" />
 </p>
