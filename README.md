@@ -3,7 +3,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=61dafb&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hello,+I'm+Rushikesh+Bhalerao!+%F0%9F%91%8B;Data+Engineer+%26+Data+Analyst+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Passionate+about+Insights+%26+Analytics+%F0%9F%A7%AF" alt="Rushikesh Bhalerao">
+  <h3 align="center">
+  <img align="center" src="https://raw.githubusercontent.com/rushirao17/rushirao17/main/Intro.png" alt="github" height="180" width="600" style="filter: brightness(0) invert(1);" />
+  </h3>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
