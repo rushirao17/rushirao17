@@ -31,17 +31,14 @@
   <img src="https://img.shields.io/badge/MySQL-%2361dafb.svg?style=for-the-badge&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-%2361dafb.svg?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-%2361dafb.svg?style=for-the-badge&logo=mongodb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache%20Hive-%2361dafb.svg?style=for-the-badge&logo=apachehive&logoColor=black" />
   <img src="https://img.shields.io/badge/PySpark-%2361dafb.svg?style=for-the-badge&logo=apachespark&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-%2361dafb.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PowerBI-%2361dafb.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-%2361dafb.svg?style=for-the-badge&logo=amazonaws&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-%2361dafb.svg?style=for-the-badge&logo=microsoft-excel&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hadoop-%2361dafb.svg?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Kafka-%2361dafb.svg?style=for-the-badge&logo=apachekafka&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-%2361dafb.svg?style=for-the-badge&logo=r&logoColor=black" />
   <img src="https://img.shields.io/badge/Airflow-%2361dafb.svg?style=for-the-badge&logo=apacheairflow&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cassandra-%2361dafb.svg?style=for-the-badge&logo=apachecassandra&logoColor=black" />
+  
 </p>
 </div>
 
